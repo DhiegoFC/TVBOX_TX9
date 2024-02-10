@@ -1,4 +1,4 @@
-# tvbox
+# TVBOX TX9
 This is a manual explaining how to install restored firmwares in a TVBox using multitool software.
 
 TX9 (RK3228A) model firmware is embedded with 23.02 Armbian and 6.1.11 Linux kernel, available in:
